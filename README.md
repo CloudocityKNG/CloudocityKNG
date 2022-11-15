@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CloudocityKNG
+- 👀 I’m interested in Web Development and JS related stuff
+- 🌱 I’m currently learning some JS frameworks and maybe TypeScript
+- 📫 DownCloudMedia@gmx.net
