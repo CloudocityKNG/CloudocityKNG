@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CloudocityKNG</h1>
-<h3 align="center">A Python programmer</h3>
+<h3 align="center">A JS programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudocitykng&label=Profile%20views&color=0e75b6&style=flat" alt="cloudocitykng" /> </p>
 
-- 🌱 I’m currently learning **Python-related stuff**
+- 🌱 I’m currently learning **JS-related stuff**
 
 - 📫 How to reach me **DownCloudMedia@gmx.net**
 
